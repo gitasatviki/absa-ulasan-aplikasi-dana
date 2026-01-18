@@ -1,0 +1,15 @@
+streamlit==1.38.0
+pandas==2.2.2
+numpy==1.26.4
+gensim==4.3.3
+tensorflow==2.16.1
+Sastrawi==1.0.1
+nltk==3.8.1
+emoji==2.12.1
+scikit-learn==1.5.1
+matplotlib==3.10.0
+seaborn==0.13.2
+wordcloud==1.9.4
+imbalanced-learn==0.14.0
+tqdm==4.67.1
+pyLDAvis==3.4.1
