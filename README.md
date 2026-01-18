@@ -1,13 +1,11 @@
 # Analisis Sentimen Berbasis Aspek pada Ulasan Aplikasi DANA Menggunakan LDA, FastText Embedding, dan BiLSTM
 
-Projek ini merupakan implementasi **Aspect-Based Sentiment Analysis (ABSA)** pada ulasan pengguna aplikasi **DANA** di Google Play Store Indonesia.  
+Projek ini merupakan implementasi **Aspect-Based Sentiment Analysis (ABSA)** pada ulasan pengguna aplikasi **DANA** di Google Play Store Indonesia. Pada GitHub ini sudah ada Python Notebook yang berisikan EDA dan Model secara keseluruhan. Serta juga sudah terdapat kode untuk streamlit serta model .h5 yang diperlukan  
 
 **Metode yang digunakan:**
 - LDA (Latent Dirichlet Allocation) → ekstraksi aspek otomatis  
 - FastText Embedding → representasi kata 
 - BiLSTM → klasifikasi sentimen (positif / netral / negatif) serta klasifikasi aspek
-
-Terdapat notebook lengkap dan aplikasi demo interaktif berbasis Streamlit.
 
 ## Anggota Kelompok 3
 
