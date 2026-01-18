@@ -22,3 +22,6 @@ Dr. Anak Agung Istri Ngurah Eka Karyawati, S.Si., M.Eng.
 
 **DANA App Sentiment Review on PlayStore Indonesia**  
 [https://www.kaggle.com/datasets/alexmariosimanjuntak/dana-app-sentiment-review-on-playstore-indonesia/data](https://www.kaggle.com/datasets/alexmariosimanjuntak/dana-app-sentiment-review-on-playstore-indonesia/data)
+
+**Link Youtube**  
+[Link Youtube](https://youtu.be/taeXErP61Ak)
